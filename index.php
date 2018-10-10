@@ -12,11 +12,11 @@ $categories = $controllerCategory->getAllCategories();
     <head>
         <!--=============== basic  ===============-->
         <meta charset="UTF-8">
-        <title>Επαγγελματικός Οδηγός Λάρισας - elarisa.gr</title>
+        <title></title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="robots" content="index, follow"/>
-        <meta name="keywords" content="Επαγγελματίες, Λάρισα, επιχειρήσεις, επαγγελματικός οδηγός Λάρισας, επαγγελματικός κατάλογος, ενοικιαζόμενα δωμάτια Λάρισα, τηλέφωνα, elarisa.gr"/>
-        <meta name="description" content="Βρες στη Λάρισα επαγγελματίες, επιχειρήσεις, ενοικιαζόμενα δωμάτια στα παράλια της Λάρισας στο elarisa.gr."/>
+        <meta name="keywords" content=""/>
+        <meta name="description" content=""/>
         <!--=============== css  ===============-->
         <link type="text/css" rel="stylesheet" href="css/reset.css">
         <link type="text/css" rel="stylesheet" href="css/plugins.css">
@@ -141,7 +141,7 @@ $categories = $controllerCategory->getAllCategories();
                                         <div class="listing-item-grid">
                                             <img  src="images/services/website.jpg"   alt="">
                                             <div class="listing-item-cat">
-                                                <h3><a href="http://www.thehive.gr/web-design/" target="_blank">Χρειάζεσαι ιστοσελίδα; </a></h3>
+                                                <h3><a href="" target="_blank">Χρειάζεσαι ιστοσελίδα; </a></h3>
                                                 <p>Το κάνουμε εμείς για σένα!</p>
                                             </div> 
                                         </div>
@@ -155,7 +155,7 @@ $categories = $controllerCategory->getAllCategories();
                                             <img  src="images/services/etairiki-tautothta.jpg"   alt="">
                                            <div class="listing-counter"></div>
                                             <div class="listing-item-cat">
-                                                <h3><a href="http://www.thehive.gr/graphic-design/" target="_blank">Χρειάζεσαι εταιρική ταυτότητα; </a></h3>
+                                                <h3><a href="" target="_blank">Χρειάζεσαι εταιρική ταυτότητα; </a></h3>
                                                 <p>Το κάνουμε εμείς για σένα!</p>
                                             </div>
                                         </div>
@@ -168,7 +168,7 @@ $categories = $controllerCategory->getAllCategories();
                                         <div class="listing-item-grid">
                                             <img  src="images/services/mixanografisi.jpg"   alt="">
                                             <div class="listing-item-cat">
-                                                <h3><a href="http://www.thehive.gr/business-manager/" target="_blank">Χρειάζεσαι πρόγραμμα μηχανογράφησης προσαρμοσμένο στα μέτρα σου;</a></h3>
+                                                <h3><a href="" target="_blank">Χρειάζεσαι πρόγραμμα μηχανογράφησης προσαρμοσμένο στα μέτρα σου;</a></h3>
                                                 <p></p>
                                             </div> 
                                         </div>
@@ -181,7 +181,7 @@ $categories = $controllerCategory->getAllCategories();
                                         <div class="listing-item-grid">
                                             <img  src="images/services/facebook.jpg"   alt="">
                                             <div class="listing-item-cat">
-                                                <h3><a href="http://www.thehive.gr/facebook-ads-tool/" target="_blank">Το ήξερες ότι υπάρχει τρόπος να φτάσεις τις πωλήσεις σου στην κορυφή μέσω του FACEBOOK</a></h3>
+                                                <h3><a href="" target="_blank">Το ήξερες ότι υπάρχει τρόπος να φτάσεις τις πωλήσεις σου στην κορυφή μέσω του FACEBOOK</a></h3>
                                                 <p></p>
                                             </div>
                                             </div> 
@@ -194,7 +194,7 @@ $categories = $controllerCategory->getAllCategories();
                                         <div class="listing-item-grid">
                                             <img  src="images/services/SEO.jpg"   alt="">
                                             <div class="listing-item-cat">
-                                                <h3><a href="http://www.thehive.gr/seo/" target="_blank">Θέλεις να φτάσεις την επιχείρηση σου στη κορυφή των μηχανών αναζήτησης;</a></h3>
+                                                <h3><a href="" target="_blank">Θέλεις να φτάσεις την επιχείρηση σου στη κορυφή των μηχανών αναζήτησης;</a></h3>
                                                 <p></p>
                                             </div>
                                         </div> 
@@ -208,7 +208,7 @@ $categories = $controllerCategory->getAllCategories();
                                         <div class="listing-item-grid">
                                             <img  src="images/services/online-media.jpg"   alt="">
                                             <div class="listing-item-cat">
-                                                <h3><a href="http://www.thehive.gr/media-lab/" target="_blank">Θες να προωθήσεις την επιχείρησή σου με στυλ; Κάντο στα Online media!</a></h3>
+                                                <h3><a href="" target="_blank">Θες να προωθήσεις την επιχείρησή σου με στυλ; Κάντο στα Online media!</a></h3>
                                                 <p></p>
                                             </div> 
                                         </div>
