@@ -15,11 +15,11 @@ $customer_social = $ControllerCustomer->getCustomerSocialWithID($_GET['store_id'
     <head>
         <!--=============== basic  ===============-->
         <meta charset="UTF-8">
-        <title>Επαγγελματικός Οδηγός Λάρισας - elarisa.gr</title>
+        <title></title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="robots" content="index, follow"/>
-        <meta name="keywords" content="Επαγγελματίες, Λάρισα, επιχειρήσεις, επαγγελματικός οδηγός Λάρισας, επαγγελματικός κατάλογος, ενοικιαζόμενα δωμάτια Λάρισα, τηλέφωνα, elarisa.gr"/>
-        <meta name="description" content="Βρες στη Λάρισα επαγγελματίες, επιχειρήσεις, ενοικιαζόμενα δωμάτια στα παράλια της Λάρισας στο elarisa.gr."/>
+        <meta name="keywords" content=""/>
+        <meta name="description" content=""/>
         <!--=============== css  ===============-->
         <link type="text/css" rel="stylesheet" href="css/reset.css">
         <link type="text/css" rel="stylesheet" href="css/plugins.css">
