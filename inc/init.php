@@ -4,16 +4,16 @@ $PAGE_SIZE = 20;
 //if (session_id() == '')
 //    session_start();
 //require_once("lib/config.php");
-require_once ($_SERVER['DOCUMENT_ROOT']."/elarisa/application/Config.php");
-require_once ($_SERVER['DOCUMENT_ROOT']."/elarisa/application/DB_Connect.php");
+require_once ($_SERVER['DOCUMENT_ROOT']."/application/Config.php");
+require_once ($_SERVER['DOCUMENT_ROOT']."/application/DB_Connect.php");
 
-require_once ($_SERVER['DOCUMENT_ROOT']."/elarisa/models/Category.php");
-require_once ($_SERVER['DOCUMENT_ROOT']."/elarisa/models/Store.php");
+require_once ($_SERVER['DOCUMENT_ROOT']."/models/Category.php");
+require_once ($_SERVER['DOCUMENT_ROOT']."/models/Store.php");
 
 
 
-require_once ($_SERVER['DOCUMENT_ROOT']."/elarisa/controllers/ControllerCategory.php");
-require_once ($_SERVER['DOCUMENT_ROOT']."/elarisa/controllers/ControllerCustomer.php");
+require_once ($_SERVER['DOCUMENT_ROOT']."/controllers/ControllerCategory.php");
+require_once ($_SERVER['DOCUMENT_ROOT']."/controllers/ControllerCustomer.php");
 
 
 
